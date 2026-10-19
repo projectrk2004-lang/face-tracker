@@ -1,0 +1,1158 @@
+2026-10-18 01:25:44,541 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 01:25:48,253 | FACE_DETECTED | track=1 | frame=33
+2026-10-18 01:25:49,128 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 01:25:49,135 | FACE_REGISTERED | face_id=1 | unique_count=1
+2026-10-18 01:25:49,159 | ENTRY | face_id=1 | track=1 | image=logs\entrys\2026-10-18\face_1_entry_012549_150487.jpg
+2026-10-18 01:25:50,641 | TRACKING | face_id=1 | track=1 | frame=66
+2026-10-18 01:25:51,650 | TRACKING | face_id=1 | track=1 | frame=96
+2026-10-18 01:25:52,607 | TRACKING | face_id=1 | track=1 | frame=126
+2026-10-18 01:25:53,580 | TRACKING | face_id=1 | track=1 | frame=156
+2026-10-18 01:25:54,530 | TRACKING | face_id=1 | track=1 | frame=186
+2026-10-18 01:25:55,705 | EXIT | face_id=1 | track=1 | image=logs\exits\2026-10-18\face_1_exit_012555_697404.jpg
+2026-10-18 01:26:29,676 | FACE_DETECTED | track=30 | frame=1434
+2026-10-18 01:26:29,773 | EMBEDDING_FAILED | track=30 | will retry
+2026-10-18 01:26:30,401 | EMBEDDING_GENERATED | track=30 | size=512
+2026-10-18 01:26:30,634 | FACE_REGISTERED | face_id=2 | unique_count=2
+2026-10-18 01:26:30,663 | ENTRY | face_id=2 | track=30 | image=logs\entrys\2026-10-18\face_2_entry_012630_656578.jpg
+2026-10-18 01:26:31,682 | TRACKING | face_id=2 | track=30 | frame=1467
+2026-10-18 01:26:32,683 | TRACKING | face_id=2 | track=30 | frame=1497
+2026-10-18 01:26:32,823 | EXIT | face_id=2 | track=30 | image=logs\exits\2026-10-18\face_2_exit_012632_815302.jpg
+2026-10-18 01:26:32,825 | SYSTEM_STOP | unique_visitors=2
+2026-10-18 12:31:09,733 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 12:31:14,365 | FACE_DETECTED | track=1 | frame=33
+2026-10-18 12:31:15,246 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 12:31:15,250 | FACE_RECOGNIZED | face_id=1 | score=1.00
+2026-10-18 12:31:15,271 | ENTRY | face_id=1 | track=1 | image=logs\entrys\2026-10-18\face_1_entry_123115_252263.jpg
+2026-10-18 12:31:16,781 | TRACKING | face_id=1 | track=1 | frame=66
+2026-10-18 12:31:18,199 | TRACKING | face_id=1 | track=1 | frame=96
+2026-10-18 12:31:19,403 | TRACKING | face_id=1 | track=1 | frame=126
+2026-10-18 12:31:20,480 | TRACKING | face_id=1 | track=1 | frame=156
+2026-10-18 12:31:21,566 | TRACKING | face_id=1 | track=1 | frame=186
+2026-10-18 12:31:22,825 | EXIT | face_id=1 | track=1 | image=logs\exits\2026-10-18\face_1_exit_123122_817842.jpg
+2026-10-18 12:31:59,476 | FACE_DETECTED | track=30 | frame=1434
+2026-10-18 12:31:59,614 | EMBEDDING_FAILED | track=30 | will retry
+2026-10-18 12:32:00,334 | EMBEDDING_GENERATED | track=30 | size=512
+2026-10-18 12:32:00,533 | FACE_RECOGNIZED | face_id=2 | score=1.00
+2026-10-18 12:32:00,544 | ENTRY | face_id=2 | track=30 | image=logs\entrys\2026-10-18\face_2_entry_123200_535026.jpg
+2026-10-18 12:32:01,852 | TRACKING | face_id=2 | track=30 | frame=1467
+2026-10-18 12:32:03,208 | TRACKING | face_id=2 | track=30 | frame=1497
+2026-10-18 12:32:03,430 | EXIT | face_id=2 | track=30 | image=logs\exits\2026-10-18\face_2_exit_123203_421644.jpg
+2026-10-18 12:32:03,431 | SYSTEM_STOP | unique_visitors=2
+2026-10-18 12:47:57,870 | SYSTEM_STOP | unique_visitors=2
+2026-10-18 12:55:18,119 | SYSTEM_STOP | unique_visitors=2
+2026-10-18 12:59:03,745 | SYSTEM_START | source=http://10.117.104.193:8080/video | frame_skip=3
+2026-10-18 12:59:21,529 | FACE_DETECTED | track=3 | frame=189
+2026-10-18 12:59:21,935 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-18 12:59:22,423 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-18 12:59:22,828 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-18 12:59:23,258 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-18 12:59:24,650 | EMBEDDING_GENERATED | track=3 | size=512
+2026-10-18 12:59:24,678 | FACE_REGISTERED | face_id=3 | unique_count=3
+2026-10-18 12:59:24,702 | ENTRY | face_id=3 | track=3 | image=logs\entrys\2026-10-18\face_3_entry_125924_684465.jpg
+2026-10-18 12:59:26,392 | FACE_DETECTED | track=4 | frame=219
+2026-10-18 12:59:26,697 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 12:59:27,361 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 12:59:28,259 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 12:59:28,810 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 12:59:29,312 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 12:59:30,756 | EMBEDDING_GENERATED | track=4 | size=512
+2026-10-18 12:59:30,779 | FACE_REGISTERED | face_id=4 | unique_count=4
+2026-10-18 12:59:30,806 | ENTRY | face_id=4 | track=4 | image=logs\entrys\2026-10-18\face_4_entry_125930_787795.jpg
+2026-10-18 12:59:32,129 | FACE_DETECTED | track=5 | frame=243
+2026-10-18 12:59:33,151 | EMBEDDING_GENERATED | track=5 | size=512
+2026-10-18 12:59:33,158 | FACE_RECOGNIZED | face_id=3 | score=0.59
+2026-10-18 12:59:33,163 | TRACK_RELINKED | face_id=3 | old_track=3 | new_track=5
+2026-10-18 12:59:35,022 | TRACKING | face_id=3 | track=5 | frame=261
+2026-10-18 12:59:35,605 | EXIT | face_id=4 | track=4 | image=logs\exits\2026-10-18\face_4_exit_125935_592920.jpg
+2026-10-18 12:59:37,318 | TRACKING | face_id=3 | track=5 | frame=291
+2026-10-18 12:59:39,493 | TRACKING | face_id=3 | track=5 | frame=321
+2026-10-18 12:59:41,452 | TRACKING | face_id=3 | track=5 | frame=351
+2026-10-18 12:59:42,401 | FACE_DETECTED | track=6 | frame=366
+2026-10-18 12:59:42,703 | EMBEDDING_FAILED | track=6 | will retry
+2026-10-18 12:59:43,270 | EMBEDDING_FAILED | track=6 | will retry
+2026-10-18 12:59:43,930 | EMBEDDING_FAILED | track=6 | will retry
+2026-10-18 12:59:44,529 | EMBEDDING_FAILED | track=6 | will retry
+2026-10-18 12:59:45,624 | FACE_DETECTED | track=7 | frame=387
+2026-10-18 12:59:45,876 | EMBEDDING_FAILED | track=7 | will retry
+2026-10-18 12:59:49,760 | EXIT | face_id=3 | track=5 | image=logs\exits\2026-10-18\face_3_exit_125949_743574.jpg
+2026-10-18 12:59:59,383 | FACE_DETECTED | track=9 | frame=582
+2026-10-18 12:59:59,625 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:00,460 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:00,944 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:01,560 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:02,026 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:02,529 | EMBEDDING_FAILED | track=9 | will retry
+2026-10-18 13:00:03,187 | FACE_DETECTED | track=10 | frame=603
+2026-10-18 13:00:04,201 | EMBEDDING_GENERATED | track=10 | size=512
+2026-10-18 13:00:04,218 | FACE_RECOGNIZED | face_id=3 | score=0.64
+2026-10-18 13:00:04,283 | ENTRY | face_id=3 | track=10 | image=logs\entrys\2026-10-18\face_3_entry_130004_241855.jpg
+2026-10-18 13:00:07,835 | FACE_DETECTED | track=11 | frame=651
+2026-10-18 13:00:08,123 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:08,600 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:08,620 | EXIT | face_id=3 | track=10 | image=logs\exits\2026-10-18\face_3_exit_130008_600816.jpg
+2026-10-18 13:00:09,275 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:10,328 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:11,336 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:12,278 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:12,820 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:13,349 | EMBEDDING_FAILED | track=11 | will retry
+2026-10-18 13:00:17,356 | FACE_DETECTED | track=12 | frame=711
+2026-10-18 13:00:18,376 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-18 13:00:20,054 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-18 13:02:14,044 | STREAM_RECONNECT | attempt=1
+2026-10-18 13:02:31,939 | STREAM_RECONNECT | attempt=2
+2026-10-18 13:02:50,052 | STREAM_RECONNECT | attempt=3
+2026-10-18 13:03:08,288 | STREAM_RECONNECT | attempt=4
+2026-10-18 13:03:26,456 | STREAM_RECONNECT | attempt=5
+2026-10-18 13:03:30,148 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 13:03:37,510 | FACE_DETECTED | track=1 | frame=33
+2026-10-18 13:03:38,857 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 13:03:38,858 | FACE_RECOGNIZED | face_id=1 | score=1.00
+2026-10-18 13:03:38,883 | ENTRY | face_id=1 | track=1 | image=logs\entrys\2026-10-18\face_1_entry_130338_858615.jpg
+2026-10-18 13:03:41,264 | TRACKING | face_id=1 | track=1 | frame=66
+2026-10-18 13:03:43,378 | TRACKING | face_id=1 | track=1 | frame=96
+2026-10-18 13:03:44,927 | STREAM_LOST | giving up
+2026-10-18 13:03:44,929 | SYSTEM_STOP | unique_visitors=4
+2026-10-18 13:03:45,131 | TRACKING | face_id=1 | track=1 | frame=126
+2026-10-18 13:03:47,203 | TRACKING | face_id=1 | track=1 | frame=156
+2026-10-18 13:03:49,460 | TRACKING | face_id=1 | track=1 | frame=186
+2026-10-18 13:03:51,399 | EXIT | face_id=1 | track=1 | image=logs\exits\2026-10-18\face_1_exit_130351_376535.jpg
+2026-10-18 13:04:59,717 | FACE_DETECTED | track=30 | frame=1434
+2026-10-18 13:04:59,950 | EMBEDDING_FAILED | track=30 | will retry
+2026-10-18 13:05:03,080 | EMBEDDING_GENERATED | track=30 | size=512
+2026-10-18 13:05:03,084 | FACE_RECOGNIZED | face_id=2 | score=1.00
+2026-10-18 13:05:03,097 | ENTRY | face_id=2 | track=30 | image=logs\entrys\2026-10-18\face_2_entry_130503_088029.jpg
+2026-10-18 13:05:09,355 | TRACKING | face_id=2 | track=30 | frame=1467
+2026-10-18 13:05:12,705 | TRACKING | face_id=2 | track=30 | frame=1497
+2026-10-18 13:05:12,985 | EXIT | face_id=2 | track=30 | image=logs\exits\2026-10-18\face_2_exit_130512_972719.jpg
+2026-10-18 13:05:12,986 | SYSTEM_STOP | unique_visitors=4
+2026-10-18 16:10:32,459 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 16:10:37,422 | FACE_DETECTED | track=1 | frame=33
+2026-10-18 16:10:38,362 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 16:10:38,362 | FACE_RECOGNIZED | face_id=1 | score=1.00
+2026-10-18 16:10:38,381 | ENTRY | face_id=1 | track=1 | image=logs\entrys\2026-10-18\face_1_entry_161038_363078.jpg
+2026-10-18 16:10:39,765 | TRACKING | face_id=1 | track=1 | frame=66
+2026-10-18 16:10:41,055 | TRACKING | face_id=1 | track=1 | frame=96
+2026-10-18 16:10:42,164 | TRACKING | face_id=1 | track=1 | frame=126
+2026-10-18 16:10:43,163 | TRACKING | face_id=1 | track=1 | frame=156
+2026-10-18 16:10:44,144 | TRACKING | face_id=1 | track=1 | frame=186
+2026-10-18 16:10:45,249 | EXIT | face_id=1 | track=1 | image=logs\exits\2026-10-18\face_1_exit_161045_235675.jpg
+2026-10-18 16:11:18,722 | FACE_DETECTED | track=30 | frame=1434
+2026-10-18 16:11:18,874 | EMBEDDING_FAILED | track=30 | will retry
+2026-10-18 16:11:19,438 | EMBEDDING_GENERATED | track=30 | size=512
+2026-10-18 16:11:19,673 | FACE_RECOGNIZED | face_id=2 | score=1.00
+2026-10-18 16:11:19,682 | ENTRY | face_id=2 | track=30 | image=logs\entrys\2026-10-18\face_2_entry_161119_674308.jpg
+2026-10-18 16:11:20,790 | TRACKING | face_id=2 | track=30 | frame=1467
+2026-10-18 16:11:21,813 | TRACKING | face_id=2 | track=30 | frame=1497
+2026-10-18 16:11:21,961 | EXIT | face_id=2 | track=30 | image=logs\exits\2026-10-18\face_2_exit_161121_953022.jpg
+2026-10-18 16:11:21,962 | SYSTEM_STOP | unique_visitors=4
+2026-10-18 16:17:04,576 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 16:17:08,347 | FACE_DETECTED | track=1 | frame=33
+2026-10-18 16:17:09,163 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 16:17:09,174 | FACE_RECOGNIZED | face_id=1 | score=1.00
+2026-10-18 16:17:09,188 | ENTRY | face_id=1 | track=1 | image=logs\entrys\2026-10-18\face_1_entry_161709_177347.jpg
+2026-10-18 16:17:10,577 | TRACKING | face_id=1 | track=1 | frame=66
+2026-10-18 16:17:11,920 | TRACKING | face_id=1 | track=1 | frame=96
+2026-10-18 16:17:13,048 | TRACKING | face_id=1 | track=1 | frame=126
+2026-10-18 16:17:14,018 | TRACKING | face_id=1 | track=1 | frame=156
+2026-10-18 16:17:14,957 | TRACKING | face_id=1 | track=1 | frame=186
+2026-10-18 16:17:16,015 | EXIT | face_id=1 | track=1 | image=logs\exits\2026-10-18\face_1_exit_161716_007336.jpg
+2026-10-18 16:17:48,967 | FACE_DETECTED | track=30 | frame=1434
+2026-10-18 16:17:49,077 | EMBEDDING_FAILED | track=30 | will retry
+2026-10-18 16:17:49,982 | EMBEDDING_GENERATED | track=30 | size=512
+2026-10-18 16:17:49,983 | FACE_RECOGNIZED | face_id=2 | score=1.00
+2026-10-18 16:17:49,995 | ENTRY | face_id=2 | track=30 | image=logs\entrys\2026-10-18\face_2_entry_161749_983259.jpg
+2026-10-18 16:17:51,305 | TRACKING | face_id=2 | track=30 | frame=1467
+2026-10-18 16:17:52,281 | TRACKING | face_id=2 | track=30 | frame=1497
+2026-10-18 16:17:52,442 | EXIT | face_id=2 | track=30 | image=logs\exits\2026-10-18\face_2_exit_161752_434875.jpg
+2026-10-18 16:17:52,443 | SYSTEM_STOP | unique_visitors=4
+2026-10-18 16:21:22,239 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-18 16:21:25,443 | FACE_DETECTED | track=1 | frame=3
+2026-10-18 16:21:25,908 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-18 16:21:25,966 | FACE_REGISTERED | face_id=5 | unique_count=5
+2026-10-18 16:21:26,148 | ENTRY | face_id=5 | track=1 | image=logs\entrys\2026-10-18\face_5_entry_162125_973146.jpg
+2026-10-18 16:21:26,226 | FACE_DETECTED | track=2 | frame=3
+2026-10-18 16:21:26,837 | EMBEDDING_GENERATED | track=2 | size=512
+2026-10-18 16:21:26,889 | FACE_REGISTERED | face_id=6 | unique_count=6
+2026-10-18 16:21:26,896 | ENTRY | face_id=6 | track=2 | image=logs\entrys\2026-10-18\face_6_entry_162126_889666.jpg
+2026-10-18 16:21:26,896 | FACE_DETECTED | track=3 | frame=3
+2026-10-18 16:21:27,106 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-18 16:21:27,109 | FACE_DETECTED | track=4 | frame=3
+2026-10-18 16:21:27,358 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:27,371 | FACE_DETECTED | track=5 | frame=3
+2026-10-18 16:21:27,850 | EMBEDDING_GENERATED | track=5 | size=512
+2026-10-18 16:21:27,923 | FACE_REGISTERED | face_id=7 | unique_count=7
+2026-10-18 16:21:27,931 | ENTRY | face_id=7 | track=5 | image=logs\entrys\2026-10-18\face_7_entry_162127_924112.jpg
+2026-10-18 16:21:27,931 | FACE_DETECTED | track=6 | frame=3
+2026-10-18 16:21:28,654 | EMBEDDING_GENERATED | track=6 | size=512
+2026-10-18 16:21:28,661 | FACE_REGISTERED | face_id=8 | unique_count=8
+2026-10-18 16:21:28,668 | ENTRY | face_id=8 | track=6 | image=logs\entrys\2026-10-18\face_8_entry_162128_662212.jpg
+2026-10-18 16:21:28,669 | FACE_DETECTED | track=7 | frame=3
+2026-10-18 16:21:29,363 | EMBEDDING_GENERATED | track=7 | size=512
+2026-10-18 16:21:29,398 | FACE_REGISTERED | face_id=9 | unique_count=9
+2026-10-18 16:21:29,406 | ENTRY | face_id=9 | track=7 | image=logs\entrys\2026-10-18\face_9_entry_162129_399058.jpg
+2026-10-18 16:21:29,407 | FACE_DETECTED | track=8 | frame=3
+2026-10-18 16:21:29,676 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-18 16:21:30,240 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:30,335 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-18 16:21:30,696 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:30,790 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-18 16:21:30,791 | FACE_DETECTED | track=10 | frame=9
+2026-10-18 16:21:31,505 | EMBEDDING_GENERATED | track=10 | size=512
+2026-10-18 16:21:31,511 | FACE_REGISTERED | face_id=10 | unique_count=10
+2026-10-18 16:21:31,519 | ENTRY | face_id=10 | track=10 | image=logs\entrys\2026-10-18\face_10_entry_162131_512113.jpg
+2026-10-18 16:21:32,053 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:32,151 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-18 16:21:32,152 | FACE_DETECTED | track=12 | frame=12
+2026-10-18 16:21:32,245 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-18 16:21:34,323 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:34,776 | EMBEDDING_GENERATED | track=8 | size=512
+2026-10-18 16:21:34,824 | FACE_REGISTERED | face_id=11 | unique_count=11
+2026-10-18 16:21:34,831 | ENTRY | face_id=11 | track=8 | image=logs\entrys\2026-10-18\face_11_entry_162134_824483.jpg
+2026-10-18 16:21:35,265 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-18 16:21:35,267 | FACE_DETECTED | track=14 | frame=15
+2026-10-18 16:21:35,634 | EMBEDDING_GENERATED | track=14 | size=512
+2026-10-18 16:21:35,634 | FACE_RECOGNIZED | face_id=9 | score=0.71
+2026-10-18 16:21:35,635 | TRACK_RELINKED | face_id=9 | old_track=7 | new_track=14
+2026-10-18 16:21:36,242 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:36,690 | EMBEDDING_GENERATED | track=12 | size=512
+2026-10-18 16:21:36,756 | FACE_REGISTERED | face_id=12 | unique_count=12
+2026-10-18 16:21:36,764 | ENTRY | face_id=12 | track=12 | image=logs\entrys\2026-10-18\face_12_entry_162136_756800.jpg
+2026-10-18 16:21:37,369 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:37,744 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:38,066 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:38,068 | FACE_DETECTED | track=27 | frame=27
+2026-10-18 16:21:38,729 | EMBEDDING_GENERATED | track=27 | size=512
+2026-10-18 16:21:38,729 | FACE_RECOGNIZED | face_id=6 | score=0.60
+2026-10-18 16:21:38,730 | TRACK_RELINKED | face_id=6 | old_track=2 | new_track=27
+2026-10-18 16:21:39,286 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:39,550 | TRACKING | face_id=5 | track=1 | frame=33
+2026-10-18 16:21:39,646 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-18 16:21:39,647 | TRACKING | face_id=7 | track=5 | frame=33
+2026-10-18 16:21:39,648 | FACE_DETECTED | track=34 | frame=33
+2026-10-18 16:21:39,741 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:40,073 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:40,399 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:40,399 | FACE_DETECTED | track=43 | frame=39
+2026-10-18 16:21:40,924 | EMBEDDING_GENERATED | track=43 | size=512
+2026-10-18 16:21:40,944 | FACE_RECOGNIZED | face_id=8 | score=0.72
+2026-10-18 16:21:40,957 | TRACK_RELINKED | face_id=8 | old_track=6 | new_track=43
+2026-10-18 16:21:41,452 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:41,763 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:41,764 | FACE_DETECTED | track=51 | frame=45
+2026-10-18 16:21:41,855 | EMBEDDING_FAILED | track=51 | will retry
+2026-10-18 16:21:41,856 | FACE_DETECTED | track=52 | frame=45
+2026-10-18 16:21:41,950 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-18 16:21:41,950 | FACE_DETECTED | track=53 | frame=45
+2026-10-18 16:21:42,046 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:42,362 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:43,017 | EMBEDDING_GENERATED | track=51 | size=512
+2026-10-18 16:21:43,023 | FACE_REGISTERED | face_id=13 | unique_count=13
+2026-10-18 16:21:43,031 | ENTRY | face_id=13 | track=51 | image=logs\entrys\2026-10-18\face_13_entry_162143_024013.jpg
+2026-10-18 16:21:43,238 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-18 16:21:43,516 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:43,519 | FACE_DETECTED | track=54 | frame=48
+2026-10-18 16:21:43,678 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-18 16:21:44,003 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:44,094 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-18 16:21:44,187 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:44,282 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-18 16:21:44,622 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:45,207 | EMBEDDING_GENERATED | track=52 | size=512
+2026-10-18 16:21:45,207 | FACE_RECOGNIZED | face_id=11 | score=0.82
+2026-10-18 16:21:45,208 | TRACK_RELINKED | face_id=11 | old_track=8 | new_track=52
+2026-10-18 16:21:45,492 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:46,255 | EMBEDDING_GENERATED | track=54 | size=512
+2026-10-18 16:21:46,262 | FACE_RECOGNIZED | face_id=9 | score=0.66
+2026-10-18 16:21:46,268 | TRACK_RELINKED | face_id=9 | old_track=14 | new_track=54
+2026-10-18 16:21:46,838 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:46,938 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:47,250 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:47,251 | TRACKING | face_id=8 | track=43 | frame=60
+2026-10-18 16:21:47,344 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:47,345 | TRACKING | face_id=6 | track=27 | frame=60
+2026-10-18 16:21:47,345 | FACE_DETECTED | track=58 | frame=60
+2026-10-18 16:21:47,438 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-18 16:21:47,439 | FACE_DETECTED | track=59 | frame=60
+2026-10-18 16:21:47,530 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-18 16:21:47,531 | FACE_DETECTED | track=61 | frame=60
+2026-10-18 16:21:47,625 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-18 16:21:47,880 | TRACKING | face_id=5 | track=1 | frame=63
+2026-10-18 16:21:47,881 | TRACKING | face_id=7 | track=5 | frame=63
+2026-10-18 16:21:47,975 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:48,068 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:48,164 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-18 16:21:48,251 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-18 16:21:48,337 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-18 16:21:48,623 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:48,729 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:48,821 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-18 16:21:48,909 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-18 16:21:48,994 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-18 16:21:49,000 | EXIT | face_id=12 | track=12 | image=logs\exits\2026-10-18\face_12_exit_162148_995071.jpg
+2026-10-18 16:21:49,314 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-18 16:21:49,406 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:49,788 | EMBEDDING_GENERATED | track=58 | size=512
+2026-10-18 16:21:49,821 | FACE_REGISTERED | face_id=14 | unique_count=14
+2026-10-18 16:21:49,828 | ENTRY | face_id=14 | track=58 | image=logs\entrys\2026-10-18\face_14_entry_162149_822295.jpg
+2026-10-18 16:21:50,401 | EMBEDDING_GENERATED | track=59 | size=512
+2026-10-18 16:21:50,452 | FACE_REGISTERED | face_id=15 | unique_count=15
+2026-10-18 16:21:50,459 | ENTRY | face_id=15 | track=59 | image=logs\entrys\2026-10-18\face_15_entry_162150_452648.jpg
+2026-10-18 16:21:51,360 | EMBEDDING_GENERATED | track=61 | size=512
+2026-10-18 16:21:51,373 | FACE_REGISTERED | face_id=16 | unique_count=16
+2026-10-18 16:21:51,380 | ENTRY | face_id=16 | track=61 | image=logs\entrys\2026-10-18\face_16_entry_162151_373390.jpg
+2026-10-18 16:21:51,387 | EXIT | face_id=10 | track=10 | image=logs\exits\2026-10-18\face_10_exit_162151_381116.jpg
+2026-10-18 16:21:51,917 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:51,922 | TRACKING | face_id=9 | track=54 | frame=72
+2026-10-18 16:21:51,924 | FACE_DETECTED | track=67 | frame=72
+2026-10-18 16:21:52,021 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:52,022 | FACE_DETECTED | track=69 | frame=72
+2026-10-18 16:21:52,663 | EMBEDDING_GENERATED | track=69 | size=512
+2026-10-18 16:21:52,673 | FACE_RECOGNIZED | face_id=10 | score=0.76
+2026-10-18 16:21:52,698 | ENTRY | face_id=10 | track=69 | image=logs\entrys\2026-10-18\face_10_entry_162152_677033.jpg
+2026-10-18 16:21:53,252 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:53,351 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:53,578 | TRACKING | face_id=13 | track=51 | frame=78
+2026-10-18 16:21:53,578 | TRACKING | face_id=11 | track=52 | frame=78
+2026-10-18 16:21:53,671 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:53,763 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:54,094 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:54,186 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:54,539 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:54,633 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:54,978 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:55,073 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:55,074 | FACE_DETECTED | track=76 | frame=87
+2026-10-18 16:21:55,633 | EMBEDDING_GENERATED | track=76 | size=512
+2026-10-18 16:21:55,668 | FACE_RECOGNIZED | face_id=6 | score=0.62
+2026-10-18 16:21:55,685 | TRACK_RELINKED | face_id=6 | old_track=27 | new_track=76
+2026-10-18 16:21:55,919 | TRACKING | face_id=8 | track=43 | frame=90
+2026-10-18 16:21:56,162 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:56,251 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-18 16:21:56,487 | TRACKING | face_id=5 | track=1 | frame=93
+2026-10-18 16:21:56,487 | TRACKING | face_id=7 | track=5 | frame=93
+2026-10-18 16:21:56,579 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:56,581 | FACE_DETECTED | track=80 | frame=93
+2026-10-18 16:21:56,671 | EMBEDDING_FAILED | track=80 | will retry
+2026-10-18 16:21:56,990 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:57,311 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:57,312 | TRACKING | face_id=14 | track=58 | frame=99
+2026-10-18 16:21:57,313 | TRACKING | face_id=15 | track=59 | frame=99
+2026-10-18 16:21:57,313 | TRACKING | face_id=16 | track=61 | frame=99
+2026-10-18 16:21:57,628 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:57,629 | TRACKING | face_id=9 | track=54 | frame=102
+2026-10-18 16:21:57,631 | FACE_DETECTED | track=87 | frame=102
+2026-10-18 16:21:57,721 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-18 16:21:58,046 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:58,048 | TRACKING | face_id=6 | track=76 | frame=105
+2026-10-18 16:21:58,140 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-18 16:21:58,369 | TRACKING | face_id=13 | track=51 | frame=108
+2026-10-18 16:21:58,475 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:21:58,478 | FACE_DETECTED | track=93 | frame=108
+2026-10-18 16:21:59,077 | EMBEDDING_GENERATED | track=93 | size=512
+2026-10-18 16:21:59,100 | FACE_RECOGNIZED | face_id=10 | score=0.73
+2026-10-18 16:21:59,108 | TRACK_RELINKED | face_id=10 | old_track=69 | new_track=93
+2026-10-18 16:21:59,547 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-18 16:22:00,058 | FACE_DETECTED | track=107 | frame=117
+2026-10-18 16:22:00,158 | EMBEDDING_FAILED | track=107 | will retry
+2026-10-18 16:22:00,648 | TRACKING | face_id=7 | track=5 | frame=123
+2026-10-18 16:22:01,028 | TRACKING | face_id=14 | track=58 | frame=129
+2026-10-18 16:22:01,029 | TRACKING | face_id=15 | track=59 | frame=129
+2026-10-18 16:22:01,030 | TRACKING | face_id=16 | track=61 | frame=129
+2026-10-18 16:22:01,221 | TRACKING | face_id=9 | track=54 | frame=132
+2026-10-18 16:22:01,222 | FACE_DETECTED | track=134 | frame=132
+2026-10-18 16:22:01,892 | EMBEDDING_GENERATED | track=134 | size=512
+2026-10-18 16:22:01,908 | FACE_REGISTERED | face_id=17 | unique_count=17
+2026-10-18 16:22:01,916 | ENTRY | face_id=17 | track=134 | image=logs\entrys\2026-10-18\face_17_entry_162201_908510.jpg
+2026-10-18 16:22:01,917 | FACE_DETECTED | track=135 | frame=132
+2026-10-18 16:22:02,472 | EMBEDDING_GENERATED | track=135 | size=512
+2026-10-18 16:22:02,501 | FACE_REGISTERED | face_id=18 | unique_count=18
+2026-10-18 16:22:02,508 | ENTRY | face_id=18 | track=135 | image=logs\entrys\2026-10-18\face_18_entry_162202_502014.jpg
+2026-10-18 16:22:02,516 | EXIT | face_id=11 | track=52 | image=logs\exits\2026-10-18\face_11_exit_162202_509309.jpg
+2026-10-18 16:22:03,084 | EXIT | face_id=5 | track=1 | image=logs\exits\2026-10-18\face_5_exit_162203_077684.jpg
+2026-10-18 16:22:03,298 | TRACKING | face_id=13 | track=51 | frame=138
+2026-10-18 16:22:03,301 | TRACKING | face_id=10 | track=93 | frame=138
+2026-10-18 16:22:03,302 | TRACKING | face_id=6 | track=76 | frame=138
+2026-10-18 16:22:04,110 | FACE_DETECTED | track=157 | frame=150
+2026-10-18 16:22:04,822 | EMBEDDING_GENERATED | track=157 | size=512
+2026-10-18 16:22:04,829 | FACE_REGISTERED | face_id=19 | unique_count=19
+2026-10-18 16:22:04,835 | ENTRY | face_id=19 | track=157 | image=logs\entrys\2026-10-18\face_19_entry_162204_829583.jpg
+2026-10-18 16:22:05,140 | TRACKING | face_id=7 | track=5 | frame=153
+2026-10-18 16:22:05,143 | FACE_DETECTED | track=161 | frame=153
+2026-10-18 16:22:05,403 | EMBEDDING_FAILED | track=161 | will retry
+2026-10-18 16:22:05,410 | EXIT | face_id=8 | track=43 | image=logs\exits\2026-10-18\face_8_exit_162205_403917.jpg
+2026-10-18 16:22:06,238 | EMBEDDING_GENERATED | track=161 | size=512
+2026-10-18 16:22:06,260 | FACE_REGISTERED | face_id=20 | unique_count=20
+2026-10-18 16:22:06,267 | ENTRY | face_id=20 | track=161 | image=logs\entrys\2026-10-18\face_20_entry_162206_260585.jpg
+2026-10-18 16:22:06,268 | FACE_DETECTED | track=171 | frame=156
+2026-10-18 16:22:06,950 | EMBEDDING_GENERATED | track=171 | size=512
+2026-10-18 16:22:06,967 | FACE_RECOGNIZED | face_id=19 | score=0.89
+2026-10-18 16:22:06,982 | TRACK_RELINKED | face_id=19 | old_track=157 | new_track=171
+2026-10-18 16:22:07,298 | TRACKING | face_id=14 | track=58 | frame=159
+2026-10-18 16:22:07,299 | TRACKING | face_id=15 | track=59 | frame=159
+2026-10-18 16:22:07,299 | TRACKING | face_id=16 | track=61 | frame=159
+2026-10-18 16:22:07,525 | TRACKING | face_id=9 | track=54 | frame=162
+2026-10-18 16:22:07,527 | TRACKING | face_id=17 | track=134 | frame=162
+2026-10-18 16:22:07,527 | TRACKING | face_id=18 | track=135 | frame=162
+2026-10-18 16:22:07,528 | FACE_DETECTED | track=186 | frame=162
+2026-10-18 16:22:07,673 | EMBEDDING_FAILED | track=186 | will retry
+2026-10-18 16:22:08,564 | EMBEDDING_GENERATED | track=186 | size=512
+2026-10-18 16:22:08,574 | FACE_REGISTERED | face_id=21 | unique_count=21
+2026-10-18 16:22:08,582 | ENTRY | face_id=21 | track=186 | image=logs\entrys\2026-10-18\face_21_entry_162208_575212.jpg
+2026-10-18 16:22:08,582 | FACE_DETECTED | track=188 | frame=165
+2026-10-18 16:22:09,025 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-18 16:22:09,054 | FACE_DETECTED | track=190 | frame=165
+2026-10-18 16:22:09,450 | EMBEDDING_GENERATED | track=190 | size=512
+2026-10-18 16:22:09,460 | FACE_RECOGNIZED | face_id=12 | score=0.55
+2026-10-18 16:22:09,468 | ENTRY | face_id=12 | track=190 | image=logs\entrys\2026-10-18\face_12_entry_162209_461201.jpg
+2026-10-18 16:22:09,947 | TRACKING | face_id=13 | track=51 | frame=168
+2026-10-18 16:22:09,949 | TRACKING | face_id=10 | track=93 | frame=168
+2026-10-18 16:22:10,133 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-18 16:22:10,472 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-18 16:22:10,826 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-18 16:22:10,827 | FACE_DETECTED | track=204 | frame=174
+2026-10-18 16:22:10,923 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-18 16:22:10,924 | FACE_DETECTED | track=207 | frame=174
+2026-10-18 16:22:11,460 | EMBEDDING_GENERATED | track=207 | size=512
+2026-10-18 16:22:11,468 | FACE_RECOGNIZED | face_id=6 | score=0.69
+2026-10-18 16:22:11,494 | TRACK_RELINKED | face_id=6 | old_track=76 | new_track=207
+2026-10-18 16:22:12,027 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-18 16:22:12,367 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-18 16:22:12,722 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-18 16:22:13,581 | EMBEDDING_GENERATED | track=204 | size=512
+2026-10-18 16:22:13,582 | FACE_RECOGNIZED | face_id=20 | score=0.80
+2026-10-18 16:22:13,582 | TRACK_RELINKED | face_id=20 | old_track=161 | new_track=204
+2026-10-18 16:22:13,846 | TRACKING | face_id=14 | track=58 | frame=189
+2026-10-18 16:22:13,846 | TRACKING | face_id=15 | track=59 | frame=189
+2026-10-18 16:22:13,847 | TRACKING | face_id=16 | track=61 | frame=189
+2026-10-18 16:22:13,856 | EXIT | face_id=7 | track=5 | image=logs\exits\2026-10-18\face_7_exit_162213_849923.jpg
+2026-10-18 16:22:14,091 | TRACKING | face_id=17 | track=134 | frame=192
+2026-10-18 16:22:14,091 | TRACKING | face_id=18 | track=135 | frame=192
+2026-10-18 16:22:14,093 | FACE_DETECTED | track=230 | frame=192
+2026-10-18 16:22:14,314 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-18 16:22:14,562 | TRACKING | face_id=21 | track=186 | frame=195
+2026-10-18 16:22:14,570 | EXIT | face_id=9 | track=54 | image=logs\exits\2026-10-18\face_9_exit_162214_563974.jpg
+2026-10-18 16:22:14,820 | TRACKING | face_id=13 | track=51 | frame=198
+2026-10-18 16:22:14,822 | TRACKING | face_id=10 | track=93 | frame=198
+2026-10-18 16:22:14,823 | TRACKING | face_id=6 | track=207 | frame=198
+2026-10-18 16:22:14,951 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-18 16:22:14,957 | EXIT | face_id=19 | track=171 | image=logs\exits\2026-10-18\face_19_exit_162214_952041.jpg
+2026-10-18 16:22:15,319 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-18 16:22:15,835 | FACE_DETECTED | track=253 | frame=207
+2026-10-18 16:22:15,956 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-18 16:22:15,957 | FACE_DETECTED | track=256 | frame=207
+2026-10-18 16:22:16,600 | EMBEDDING_GENERATED | track=256 | size=512
+2026-10-18 16:22:16,601 | FACE_RECOGNIZED | face_id=19 | score=0.84
+2026-10-18 16:22:16,633 | ENTRY | face_id=19 | track=256 | image=logs\entrys\2026-10-18\face_19_entry_162216_626752.jpg
+2026-10-18 16:22:17,148 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-18 16:22:17,160 | FACE_DETECTED | track=258 | frame=210
+2026-10-18 16:22:17,263 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:17,515 | TRACKING | face_id=20 | track=204 | frame=213
+2026-10-18 16:22:17,617 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:17,981 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:18,228 | TRACKING | face_id=14 | track=58 | frame=219
+2026-10-18 16:22:18,230 | TRACKING | face_id=15 | track=59 | frame=219
+2026-10-18 16:22:18,233 | TRACKING | face_id=16 | track=61 | frame=219
+2026-10-18 16:22:18,332 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:18,682 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:18,691 | EXIT | face_id=12 | track=190 | image=logs\exits\2026-10-18\face_12_exit_162218_684639.jpg
+2026-10-18 16:22:18,949 | TRACKING | face_id=21 | track=186 | frame=225
+2026-10-18 16:22:19,046 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:19,047 | FACE_DETECTED | track=269 | frame=225
+2026-10-18 16:22:19,145 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:19,392 | TRACKING | face_id=13 | track=51 | frame=228
+2026-10-18 16:22:19,395 | TRACKING | face_id=10 | track=93 | frame=228
+2026-10-18 16:22:19,398 | TRACKING | face_id=6 | track=207 | frame=228
+2026-10-18 16:22:19,496 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:19,600 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:19,601 | FACE_DETECTED | track=274 | frame=228
+2026-10-18 16:22:19,698 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-18 16:22:20,071 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:20,165 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:20,265 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-18 16:22:20,615 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:20,708 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:20,801 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-18 16:22:21,112 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:21,203 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:21,882 | EMBEDDING_GENERATED | track=274 | size=512
+2026-10-18 16:22:21,973 | FACE_REGISTERED | face_id=22 | unique_count=22
+2026-10-18 16:22:22,030 | ENTRY | face_id=22 | track=274 | image=logs\entrys\2026-10-18\face_22_entry_162222_023237.jpg
+2026-10-18 16:22:22,080 | FACE_DETECTED | track=288 | frame=237
+2026-10-18 16:22:22,445 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-18 16:22:22,809 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-18 16:22:22,907 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-18 16:22:23,020 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-18 16:22:23,055 | EXIT | face_id=13 | track=51 | image=logs\exits\2026-10-18\face_13_exit_162223_046463.jpg
+2026-10-18 16:22:23,067 | EXIT | face_id=14 | track=58 | image=logs\exits\2026-10-18\face_14_exit_162223_059757.jpg
+2026-10-18 16:22:23,081 | EXIT | face_id=15 | track=59 | image=logs\exits\2026-10-18\face_15_exit_162223_073346.jpg
+2026-10-18 16:22:23,098 | EXIT | face_id=16 | track=61 | image=logs\exits\2026-10-18\face_16_exit_162223_087287.jpg
+2026-10-18 16:22:23,110 | EXIT | face_id=10 | track=93 | image=logs\exits\2026-10-18\face_10_exit_162223_104111.jpg
+2026-10-18 16:22:23,120 | EXIT | face_id=17 | track=134 | image=logs\exits\2026-10-18\face_17_exit_162223_112555.jpg
+2026-10-18 16:22:23,132 | EXIT | face_id=18 | track=135 | image=logs\exits\2026-10-18\face_18_exit_162223_125378.jpg
+2026-10-18 16:22:23,140 | EXIT | face_id=21 | track=186 | image=logs\exits\2026-10-18\face_21_exit_162223_133408.jpg
+2026-10-18 16:22:23,155 | EXIT | face_id=6 | track=207 | image=logs\exits\2026-10-18\face_6_exit_162223_148499.jpg
+2026-10-18 16:22:23,168 | EXIT | face_id=20 | track=204 | image=logs\exits\2026-10-18\face_20_exit_162223_160467.jpg
+2026-10-18 16:22:23,181 | EXIT | face_id=19 | track=256 | image=logs\exits\2026-10-18\face_19_exit_162223_173566.jpg
+2026-10-18 16:22:23,194 | EXIT | face_id=22 | track=274 | image=logs\exits\2026-10-18\face_22_exit_162223_187617.jpg
+2026-10-18 16:22:23,204 | SYSTEM_STOP | unique_visitors=22
+2026-10-19 08:03:00,288 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-19 08:03:04,683 | FACE_DETECTED | track=1 | frame=3
+2026-10-19 08:03:05,502 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-19 08:03:05,609 | FACE_RECOGNIZED | face_id=5 | score=1.00
+2026-10-19 08:03:05,627 | ENTRY | face_id=5 | track=1 | image=logs\entrys\2026-10-19\face_5_entry_080305_609861.jpg
+2026-10-19 08:03:05,637 | FACE_DETECTED | track=2 | frame=3
+2026-10-19 08:03:06,190 | EMBEDDING_GENERATED | track=2 | size=512
+2026-10-19 08:03:06,603 | FACE_RECOGNIZED | face_id=6 | score=1.00
+2026-10-19 08:03:06,700 | ENTRY | face_id=6 | track=2 | image=logs\entrys\2026-10-19\face_6_entry_080306_689325.jpg
+2026-10-19 08:03:06,731 | FACE_DETECTED | track=3 | frame=3
+2026-10-19 08:03:06,959 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-19 08:03:06,962 | FACE_DETECTED | track=4 | frame=3
+2026-10-19 08:03:07,165 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:07,166 | FACE_DETECTED | track=5 | frame=3
+2026-10-19 08:03:07,617 | EMBEDDING_GENERATED | track=5 | size=512
+2026-10-19 08:03:07,646 | FACE_RECOGNIZED | face_id=7 | score=1.00
+2026-10-19 08:03:07,688 | ENTRY | face_id=7 | track=5 | image=logs\entrys\2026-10-19\face_7_entry_080307_666204.jpg
+2026-10-19 08:03:07,697 | FACE_DETECTED | track=6 | frame=3
+2026-10-19 08:03:08,634 | EMBEDDING_GENERATED | track=6 | size=512
+2026-10-19 08:03:08,656 | FACE_RECOGNIZED | face_id=8 | score=1.00
+2026-10-19 08:03:08,713 | ENTRY | face_id=8 | track=6 | image=logs\entrys\2026-10-19\face_8_entry_080308_678940.jpg
+2026-10-19 08:03:08,722 | FACE_DETECTED | track=7 | frame=3
+2026-10-19 08:03:09,619 | EMBEDDING_GENERATED | track=7 | size=512
+2026-10-19 08:03:09,654 | FACE_RECOGNIZED | face_id=9 | score=1.00
+2026-10-19 08:03:09,731 | ENTRY | face_id=9 | track=7 | image=logs\entrys\2026-10-19\face_9_entry_080309_677665.jpg
+2026-10-19 08:03:09,750 | FACE_DETECTED | track=8 | frame=3
+2026-10-19 08:03:10,220 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:03:10,643 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:10,768 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:03:11,105 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:11,197 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:03:11,198 | FACE_DETECTED | track=10 | frame=9
+2026-10-19 08:03:11,789 | EMBEDDING_GENERATED | track=10 | size=512
+2026-10-19 08:03:11,882 | FACE_RECOGNIZED | face_id=10 | score=1.00
+2026-10-19 08:03:11,967 | ENTRY | face_id=10 | track=10 | image=logs\entrys\2026-10-19\face_10_entry_080311_948168.jpg
+2026-10-19 08:03:12,453 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:12,637 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:03:12,649 | FACE_DETECTED | track=12 | frame=12
+2026-10-19 08:03:12,769 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-19 08:03:13,119 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:13,804 | EMBEDDING_GENERATED | track=8 | size=512
+2026-10-19 08:03:13,835 | FACE_RECOGNIZED | face_id=11 | score=1.00
+2026-10-19 08:03:13,843 | ENTRY | face_id=11 | track=8 | image=logs\entrys\2026-10-19\face_11_entry_080313_835889.jpg
+2026-10-19 08:03:14,138 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-19 08:03:14,474 | FACE_DETECTED | track=14 | frame=15
+2026-10-19 08:03:15,214 | EMBEDDING_GENERATED | track=14 | size=512
+2026-10-19 08:03:15,256 | FACE_RECOGNIZED | face_id=9 | score=0.71
+2026-10-19 08:03:15,261 | TRACK_RELINKED | face_id=9 | old_track=7 | new_track=14
+2026-10-19 08:03:15,795 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:16,286 | EMBEDDING_GENERATED | track=12 | size=512
+2026-10-19 08:03:16,509 | FACE_RECOGNIZED | face_id=12 | score=1.00
+2026-10-19 08:03:16,519 | ENTRY | face_id=12 | track=12 | image=logs\entrys\2026-10-19\face_12_entry_080316_511695.jpg
+2026-10-19 08:03:16,992 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:17,393 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:17,747 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:17,842 | FACE_DETECTED | track=27 | frame=27
+2026-10-19 08:03:18,254 | EMBEDDING_GENERATED | track=27 | size=512
+2026-10-19 08:03:18,552 | FACE_RECOGNIZED | face_id=6 | score=0.60
+2026-10-19 08:03:18,552 | TRACK_RELINKED | face_id=6 | old_track=2 | new_track=27
+2026-10-19 08:03:19,001 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:19,269 | TRACKING | face_id=5 | track=1 | frame=33
+2026-10-19 08:03:19,367 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:03:19,368 | TRACKING | face_id=7 | track=5 | frame=33
+2026-10-19 08:03:19,369 | FACE_DETECTED | track=34 | frame=33
+2026-10-19 08:03:19,462 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:19,801 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:20,142 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:20,145 | FACE_DETECTED | track=43 | frame=39
+2026-10-19 08:03:20,814 | EMBEDDING_GENERATED | track=43 | size=512
+2026-10-19 08:03:20,867 | FACE_RECOGNIZED | face_id=8 | score=0.72
+2026-10-19 08:03:20,880 | TRACK_RELINKED | face_id=8 | old_track=6 | new_track=43
+2026-10-19 08:03:21,399 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:21,779 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:21,780 | FACE_DETECTED | track=51 | frame=45
+2026-10-19 08:03:21,882 | EMBEDDING_FAILED | track=51 | will retry
+2026-10-19 08:03:21,894 | FACE_DETECTED | track=52 | frame=45
+2026-10-19 08:03:22,005 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:03:22,006 | FACE_DETECTED | track=53 | frame=45
+2026-10-19 08:03:22,103 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:22,451 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:23,192 | EMBEDDING_GENERATED | track=51 | size=512
+2026-10-19 08:03:23,229 | FACE_RECOGNIZED | face_id=13 | score=1.00
+2026-10-19 08:03:23,241 | ENTRY | face_id=13 | track=51 | image=logs\entrys\2026-10-19\face_13_entry_080323_230077.jpg
+2026-10-19 08:03:23,480 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:03:23,896 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:23,896 | FACE_DETECTED | track=54 | frame=48
+2026-10-19 08:03:23,999 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-19 08:03:24,348 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:24,560 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:03:24,674 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:24,774 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-19 08:03:25,123 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:25,795 | EMBEDDING_GENERATED | track=52 | size=512
+2026-10-19 08:03:25,826 | FACE_RECOGNIZED | face_id=11 | score=0.82
+2026-10-19 08:03:25,832 | TRACK_RELINKED | face_id=11 | old_track=8 | new_track=52
+2026-10-19 08:03:26,184 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:26,878 | EMBEDDING_GENERATED | track=54 | size=512
+2026-10-19 08:03:27,110 | FACE_RECOGNIZED | face_id=9 | score=0.66
+2026-10-19 08:03:27,125 | TRACK_RELINKED | face_id=9 | old_track=14 | new_track=54
+2026-10-19 08:03:27,592 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:27,711 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:28,069 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:28,071 | TRACKING | face_id=8 | track=43 | frame=60
+2026-10-19 08:03:28,165 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:28,172 | TRACKING | face_id=6 | track=27 | frame=60
+2026-10-19 08:03:28,173 | FACE_DETECTED | track=58 | frame=60
+2026-10-19 08:03:28,272 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:03:28,272 | FACE_DETECTED | track=59 | frame=60
+2026-10-19 08:03:28,370 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:03:28,379 | FACE_DETECTED | track=61 | frame=60
+2026-10-19 08:03:28,478 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:03:28,734 | TRACKING | face_id=5 | track=1 | frame=63
+2026-10-19 08:03:28,735 | TRACKING | face_id=7 | track=5 | frame=63
+2026-10-19 08:03:28,836 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:28,933 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:29,036 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:03:29,135 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:03:29,233 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:03:29,583 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:29,779 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:29,882 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:03:29,988 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:03:30,088 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:03:30,108 | EXIT | face_id=12 | track=12 | image=logs\exits\2026-10-19\face_12_exit_080330_100819.jpg
+2026-10-19 08:03:30,473 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:03:30,573 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:31,228 | EMBEDDING_GENERATED | track=58 | size=512
+2026-10-19 08:03:31,254 | FACE_RECOGNIZED | face_id=14 | score=1.00
+2026-10-19 08:03:31,270 | ENTRY | face_id=14 | track=58 | image=logs\entrys\2026-10-19\face_14_entry_080331_254888.jpg
+2026-10-19 08:03:31,935 | EMBEDDING_GENERATED | track=59 | size=512
+2026-10-19 08:03:32,219 | FACE_RECOGNIZED | face_id=15 | score=1.00
+2026-10-19 08:03:32,238 | ENTRY | face_id=15 | track=59 | image=logs\entrys\2026-10-19\face_15_entry_080332_228061.jpg
+2026-10-19 08:03:33,228 | EMBEDDING_GENERATED | track=61 | size=512
+2026-10-19 08:03:33,286 | FACE_RECOGNIZED | face_id=16 | score=1.00
+2026-10-19 08:03:33,315 | ENTRY | face_id=16 | track=61 | image=logs\entrys\2026-10-19\face_16_entry_080333_308184.jpg
+2026-10-19 08:03:33,324 | EXIT | face_id=10 | track=10 | image=logs\exits\2026-10-19\face_10_exit_080333_317883.jpg
+2026-10-19 08:03:33,856 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:33,873 | TRACKING | face_id=9 | track=54 | frame=72
+2026-10-19 08:03:33,876 | FACE_DETECTED | track=67 | frame=72
+2026-10-19 08:03:33,989 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:34,004 | FACE_DETECTED | track=69 | frame=72
+2026-10-19 08:03:34,718 | EMBEDDING_GENERATED | track=69 | size=512
+2026-10-19 08:03:34,817 | FACE_RECOGNIZED | face_id=10 | score=0.76
+2026-10-19 08:03:34,830 | ENTRY | face_id=10 | track=69 | image=logs\entrys\2026-10-19\face_10_entry_080334_818076.jpg
+2026-10-19 08:03:35,324 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:35,426 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:35,697 | TRACKING | face_id=13 | track=51 | frame=78
+2026-10-19 08:03:35,772 | TRACKING | face_id=11 | track=52 | frame=78
+2026-10-19 08:03:35,874 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:35,985 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:36,345 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:36,439 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:36,824 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:37,067 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:37,471 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:37,564 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:37,565 | FACE_DETECTED | track=76 | frame=87
+2026-10-19 08:03:38,226 | EMBEDDING_GENERATED | track=76 | size=512
+2026-10-19 08:03:38,318 | FACE_RECOGNIZED | face_id=6 | score=0.62
+2026-10-19 08:03:38,318 | TRACK_RELINKED | face_id=6 | old_track=27 | new_track=76
+2026-10-19 08:03:38,582 | TRACKING | face_id=8 | track=43 | frame=90
+2026-10-19 08:03:38,789 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:38,896 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:03:39,166 | TRACKING | face_id=5 | track=1 | frame=93
+2026-10-19 08:03:39,167 | TRACKING | face_id=7 | track=5 | frame=93
+2026-10-19 08:03:39,259 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:39,262 | FACE_DETECTED | track=80 | frame=93
+2026-10-19 08:03:39,354 | EMBEDDING_FAILED | track=80 | will retry
+2026-10-19 08:03:39,703 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:40,037 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:40,038 | TRACKING | face_id=14 | track=58 | frame=99
+2026-10-19 08:03:40,038 | TRACKING | face_id=15 | track=59 | frame=99
+2026-10-19 08:03:40,039 | TRACKING | face_id=16 | track=61 | frame=99
+2026-10-19 08:03:40,377 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:40,377 | TRACKING | face_id=9 | track=54 | frame=102
+2026-10-19 08:03:40,380 | FACE_DETECTED | track=87 | frame=102
+2026-10-19 08:03:40,477 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-19 08:03:40,828 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:40,830 | TRACKING | face_id=6 | track=76 | frame=105
+2026-10-19 08:03:40,930 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-19 08:03:41,185 | TRACKING | face_id=13 | track=51 | frame=108
+2026-10-19 08:03:41,289 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:41,293 | FACE_DETECTED | track=93 | frame=108
+2026-10-19 08:03:41,744 | EMBEDDING_GENERATED | track=93 | size=512
+2026-10-19 08:03:41,752 | FACE_RECOGNIZED | face_id=10 | score=0.73
+2026-10-19 08:03:41,778 | TRACK_RELINKED | face_id=10 | old_track=69 | new_track=93
+2026-10-19 08:03:42,498 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:03:43,019 | FACE_DETECTED | track=107 | frame=117
+2026-10-19 08:03:43,176 | EMBEDDING_FAILED | track=107 | will retry
+2026-10-19 08:03:43,716 | TRACKING | face_id=7 | track=5 | frame=123
+2026-10-19 08:03:44,221 | TRACKING | face_id=14 | track=58 | frame=129
+2026-10-19 08:03:44,221 | TRACKING | face_id=15 | track=59 | frame=129
+2026-10-19 08:03:44,222 | TRACKING | face_id=16 | track=61 | frame=129
+2026-10-19 08:03:44,474 | TRACKING | face_id=9 | track=54 | frame=132
+2026-10-19 08:03:44,476 | FACE_DETECTED | track=134 | frame=132
+2026-10-19 08:03:44,898 | EMBEDDING_GENERATED | track=134 | size=512
+2026-10-19 08:03:44,931 | FACE_RECOGNIZED | face_id=17 | score=1.00
+2026-10-19 08:03:45,020 | ENTRY | face_id=17 | track=134 | image=logs\entrys\2026-10-19\face_17_entry_080344_965920.jpg
+2026-10-19 08:03:45,020 | FACE_DETECTED | track=135 | frame=132
+2026-10-19 08:03:45,682 | EMBEDDING_GENERATED | track=135 | size=512
+2026-10-19 08:03:45,706 | FACE_RECOGNIZED | face_id=18 | score=1.00
+2026-10-19 08:03:45,735 | ENTRY | face_id=18 | track=135 | image=logs\entrys\2026-10-19\face_18_entry_080345_713614.jpg
+2026-10-19 08:03:45,743 | EXIT | face_id=11 | track=52 | image=logs\exits\2026-10-19\face_11_exit_080345_736498.jpg
+2026-10-19 08:03:46,090 | EXIT | face_id=5 | track=1 | image=logs\exits\2026-10-19\face_5_exit_080346_071586.jpg
+2026-10-19 08:03:46,349 | TRACKING | face_id=13 | track=51 | frame=138
+2026-10-19 08:03:46,352 | TRACKING | face_id=10 | track=93 | frame=138
+2026-10-19 08:03:46,353 | TRACKING | face_id=6 | track=76 | frame=138
+2026-10-19 08:03:47,281 | FACE_DETECTED | track=157 | frame=150
+2026-10-19 08:03:48,032 | EMBEDDING_GENERATED | track=157 | size=512
+2026-10-19 08:03:48,035 | FACE_RECOGNIZED | face_id=19 | score=1.00
+2026-10-19 08:03:48,071 | ENTRY | face_id=19 | track=157 | image=logs\entrys\2026-10-19\face_19_entry_080348_048958.jpg
+2026-10-19 08:03:48,335 | TRACKING | face_id=7 | track=5 | frame=153
+2026-10-19 08:03:48,338 | FACE_DETECTED | track=161 | frame=153
+2026-10-19 08:03:48,614 | EMBEDDING_FAILED | track=161 | will retry
+2026-10-19 08:03:48,622 | EXIT | face_id=8 | track=43 | image=logs\exits\2026-10-19\face_8_exit_080348_615876.jpg
+2026-10-19 08:03:49,515 | EMBEDDING_GENERATED | track=161 | size=512
+2026-10-19 08:03:49,547 | FACE_RECOGNIZED | face_id=20 | score=1.00
+2026-10-19 08:03:49,585 | ENTRY | face_id=20 | track=161 | image=logs\entrys\2026-10-19\face_20_entry_080349_565155.jpg
+2026-10-19 08:03:49,585 | FACE_DETECTED | track=171 | frame=156
+2026-10-19 08:03:50,324 | EMBEDDING_GENERATED | track=171 | size=512
+2026-10-19 08:03:50,327 | FACE_RECOGNIZED | face_id=19 | score=0.89
+2026-10-19 08:03:50,351 | TRACK_RELINKED | face_id=19 | old_track=157 | new_track=171
+2026-10-19 08:03:50,856 | TRACKING | face_id=14 | track=58 | frame=159
+2026-10-19 08:03:50,856 | TRACKING | face_id=15 | track=59 | frame=159
+2026-10-19 08:03:50,857 | TRACKING | face_id=16 | track=61 | frame=159
+2026-10-19 08:03:51,136 | TRACKING | face_id=9 | track=54 | frame=162
+2026-10-19 08:03:51,138 | TRACKING | face_id=17 | track=134 | frame=162
+2026-10-19 08:03:51,139 | TRACKING | face_id=18 | track=135 | frame=162
+2026-10-19 08:03:51,140 | FACE_DETECTED | track=186 | frame=162
+2026-10-19 08:03:51,285 | EMBEDDING_FAILED | track=186 | will retry
+2026-10-19 08:03:52,214 | EMBEDDING_GENERATED | track=186 | size=512
+2026-10-19 08:03:52,216 | FACE_RECOGNIZED | face_id=21 | score=1.00
+2026-10-19 08:03:52,228 | ENTRY | face_id=21 | track=186 | image=logs\entrys\2026-10-19\face_21_entry_080352_216707.jpg
+2026-10-19 08:03:52,229 | FACE_DETECTED | track=188 | frame=165
+2026-10-19 08:03:52,429 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:03:52,459 | FACE_DETECTED | track=190 | frame=165
+2026-10-19 08:03:53,124 | EMBEDDING_GENERATED | track=190 | size=512
+2026-10-19 08:03:53,132 | FACE_RECOGNIZED | face_id=12 | score=0.55
+2026-10-19 08:03:53,158 | ENTRY | face_id=12 | track=190 | image=logs\entrys\2026-10-19\face_12_entry_080353_138679.jpg
+2026-10-19 08:03:53,586 | TRACKING | face_id=13 | track=51 | frame=168
+2026-10-19 08:03:53,589 | TRACKING | face_id=10 | track=93 | frame=168
+2026-10-19 08:03:53,837 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:03:54,206 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:03:54,550 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:03:54,551 | FACE_DETECTED | track=204 | frame=174
+2026-10-19 08:03:54,648 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:03:54,649 | FACE_DETECTED | track=207 | frame=174
+2026-10-19 08:03:55,306 | EMBEDDING_GENERATED | track=207 | size=512
+2026-10-19 08:03:55,308 | FACE_RECOGNIZED | face_id=6 | score=0.69
+2026-10-19 08:03:55,309 | TRACK_RELINKED | face_id=6 | old_track=76 | new_track=207
+2026-10-19 08:03:55,899 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:03:56,264 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:03:56,624 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:03:57,534 | EMBEDDING_GENERATED | track=204 | size=512
+2026-10-19 08:03:57,535 | FACE_RECOGNIZED | face_id=20 | score=0.80
+2026-10-19 08:03:57,536 | TRACK_RELINKED | face_id=20 | old_track=161 | new_track=204
+2026-10-19 08:03:57,817 | TRACKING | face_id=14 | track=58 | frame=189
+2026-10-19 08:03:57,818 | TRACKING | face_id=15 | track=59 | frame=189
+2026-10-19 08:03:57,819 | TRACKING | face_id=16 | track=61 | frame=189
+2026-10-19 08:03:57,828 | EXIT | face_id=7 | track=5 | image=logs\exits\2026-10-19\face_7_exit_080357_821656.jpg
+2026-10-19 08:03:58,080 | TRACKING | face_id=17 | track=134 | frame=192
+2026-10-19 08:03:58,081 | TRACKING | face_id=18 | track=135 | frame=192
+2026-10-19 08:03:58,083 | FACE_DETECTED | track=230 | frame=192
+2026-10-19 08:03:58,335 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:03:58,593 | TRACKING | face_id=21 | track=186 | frame=195
+2026-10-19 08:03:58,603 | EXIT | face_id=9 | track=54 | image=logs\exits\2026-10-19\face_9_exit_080358_594355.jpg
+2026-10-19 08:03:58,853 | TRACKING | face_id=13 | track=51 | frame=198
+2026-10-19 08:03:58,856 | TRACKING | face_id=10 | track=93 | frame=198
+2026-10-19 08:03:58,857 | TRACKING | face_id=6 | track=207 | frame=198
+2026-10-19 08:03:58,991 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:03:58,998 | EXIT | face_id=19 | track=171 | image=logs\exits\2026-10-19\face_19_exit_080358_991715.jpg
+2026-10-19 08:03:59,349 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:03:59,847 | FACE_DETECTED | track=253 | frame=207
+2026-10-19 08:04:00,019 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-19 08:04:00,019 | FACE_DETECTED | track=256 | frame=207
+2026-10-19 08:04:00,651 | EMBEDDING_GENERATED | track=256 | size=512
+2026-10-19 08:04:00,663 | FACE_RECOGNIZED | face_id=19 | score=0.84
+2026-10-19 08:04:00,713 | ENTRY | face_id=19 | track=256 | image=logs\entrys\2026-10-19\face_19_entry_080400_691022.jpg
+2026-10-19 08:04:01,280 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-19 08:04:01,281 | FACE_DETECTED | track=258 | frame=210
+2026-10-19 08:04:01,379 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:01,648 | TRACKING | face_id=20 | track=204 | frame=213
+2026-10-19 08:04:01,744 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:02,089 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:02,333 | TRACKING | face_id=14 | track=58 | frame=219
+2026-10-19 08:04:02,333 | TRACKING | face_id=15 | track=59 | frame=219
+2026-10-19 08:04:02,334 | TRACKING | face_id=16 | track=61 | frame=219
+2026-10-19 08:04:02,428 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:02,773 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:02,783 | EXIT | face_id=12 | track=190 | image=logs\exits\2026-10-19\face_12_exit_080402_774593.jpg
+2026-10-19 08:04:03,039 | TRACKING | face_id=21 | track=186 | frame=225
+2026-10-19 08:04:03,132 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:03,133 | FACE_DETECTED | track=269 | frame=225
+2026-10-19 08:04:03,224 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:03,491 | TRACKING | face_id=13 | track=51 | frame=228
+2026-10-19 08:04:03,493 | TRACKING | face_id=10 | track=93 | frame=228
+2026-10-19 08:04:03,494 | TRACKING | face_id=6 | track=207 | frame=228
+2026-10-19 08:04:03,591 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:03,689 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:03,690 | FACE_DETECTED | track=274 | frame=228
+2026-10-19 08:04:03,787 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:04:04,201 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:04,296 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:04,392 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:04:04,758 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:04,853 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:04,950 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:04:05,287 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:05,383 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:06,003 | EMBEDDING_GENERATED | track=274 | size=512
+2026-10-19 08:04:06,003 | FACE_RECOGNIZED | face_id=22 | score=1.00
+2026-10-19 08:04:06,012 | ENTRY | face_id=22 | track=274 | image=logs\entrys\2026-10-19\face_22_entry_080406_004560.jpg
+2026-10-19 08:04:06,012 | FACE_DETECTED | track=288 | frame=237
+2026-10-19 08:04:06,324 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-19 08:04:06,989 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:04:07,095 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:04:07,208 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-19 08:04:07,234 | EXIT | face_id=13 | track=51 | image=logs\exits\2026-10-19\face_13_exit_080407_226185.jpg
+2026-10-19 08:04:07,241 | EXIT | face_id=14 | track=58 | image=logs\exits\2026-10-19\face_14_exit_080407_234434.jpg
+2026-10-19 08:04:07,249 | EXIT | face_id=15 | track=59 | image=logs\exits\2026-10-19\face_15_exit_080407_241973.jpg
+2026-10-19 08:04:07,256 | EXIT | face_id=16 | track=61 | image=logs\exits\2026-10-19\face_16_exit_080407_249765.jpg
+2026-10-19 08:04:07,265 | EXIT | face_id=10 | track=93 | image=logs\exits\2026-10-19\face_10_exit_080407_257114.jpg
+2026-10-19 08:04:07,272 | EXIT | face_id=17 | track=134 | image=logs\exits\2026-10-19\face_17_exit_080407_265450.jpg
+2026-10-19 08:04:07,280 | EXIT | face_id=18 | track=135 | image=logs\exits\2026-10-19\face_18_exit_080407_272985.jpg
+2026-10-19 08:04:07,288 | EXIT | face_id=21 | track=186 | image=logs\exits\2026-10-19\face_21_exit_080407_281248.jpg
+2026-10-19 08:04:07,296 | EXIT | face_id=6 | track=207 | image=logs\exits\2026-10-19\face_6_exit_080407_288920.jpg
+2026-10-19 08:04:07,303 | EXIT | face_id=20 | track=204 | image=logs\exits\2026-10-19\face_20_exit_080407_296748.jpg
+2026-10-19 08:04:07,316 | EXIT | face_id=19 | track=256 | image=logs\exits\2026-10-19\face_19_exit_080407_304197.jpg
+2026-10-19 08:04:07,324 | EXIT | face_id=22 | track=274 | image=logs\exits\2026-10-19\face_22_exit_080407_317158.jpg
+2026-10-19 08:04:07,324 | SYSTEM_STOP | unique_visitors=22
+2026-10-19 08:21:16,932 | SYSTEM_START | source=data/sample.mp4 | frame_skip=3
+2026-10-19 08:21:20,251 | FACE_DETECTED | track=1 | frame=3
+2026-10-19 08:21:20,918 | EMBEDDING_GENERATED | track=1 | size=512
+2026-10-19 08:21:21,113 | FACE_RECOGNIZED | face_id=5 | score=1.00
+2026-10-19 08:21:21,135 | ENTRY | face_id=5 | track=1 | image=logs\entrys\2026-10-19\face_5_entry_082121_114508.jpg
+2026-10-19 08:21:21,155 | FACE_DETECTED | track=2 | frame=3
+2026-10-19 08:21:21,681 | EMBEDDING_GENERATED | track=2 | size=512
+2026-10-19 08:21:21,690 | FACE_RECOGNIZED | face_id=6 | score=1.00
+2026-10-19 08:21:21,940 | ENTRY | face_id=6 | track=2 | image=logs\entrys\2026-10-19\face_6_entry_082121_700595.jpg
+2026-10-19 08:21:21,941 | FACE_DETECTED | track=3 | frame=3
+2026-10-19 08:21:22,199 | EMBEDDING_FAILED | track=3 | will retry
+2026-10-19 08:21:22,203 | FACE_DETECTED | track=4 | frame=3
+2026-10-19 08:21:22,381 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:22,382 | FACE_DETECTED | track=5 | frame=3
+2026-10-19 08:21:22,900 | EMBEDDING_GENERATED | track=5 | size=512
+2026-10-19 08:21:22,915 | FACE_RECOGNIZED | face_id=7 | score=1.00
+2026-10-19 08:21:22,984 | ENTRY | face_id=7 | track=5 | image=logs\entrys\2026-10-19\face_7_entry_082122_942474.jpg
+2026-10-19 08:21:22,984 | FACE_DETECTED | track=6 | frame=3
+2026-10-19 08:21:23,840 | EMBEDDING_GENERATED | track=6 | size=512
+2026-10-19 08:21:23,874 | FACE_RECOGNIZED | face_id=8 | score=1.00
+2026-10-19 08:21:23,906 | ENTRY | face_id=8 | track=6 | image=logs\entrys\2026-10-19\face_8_entry_082123_897230.jpg
+2026-10-19 08:21:23,907 | FACE_DETECTED | track=7 | frame=3
+2026-10-19 08:21:25,237 | EMBEDDING_GENERATED | track=7 | size=512
+2026-10-19 08:21:25,248 | FACE_RECOGNIZED | face_id=9 | score=1.00
+2026-10-19 08:21:25,298 | ENTRY | face_id=9 | track=7 | image=logs\entrys\2026-10-19\face_9_entry_082125_271727.jpg
+2026-10-19 08:21:25,299 | FACE_DETECTED | track=8 | frame=3
+2026-10-19 08:21:25,820 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:21:26,323 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:26,417 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:21:26,802 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:26,896 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:21:26,897 | FACE_DETECTED | track=10 | frame=9
+2026-10-19 08:21:27,466 | EMBEDDING_GENERATED | track=10 | size=512
+2026-10-19 08:21:27,494 | FACE_RECOGNIZED | face_id=10 | score=1.00
+2026-10-19 08:21:27,551 | ENTRY | face_id=10 | track=10 | image=logs\entrys\2026-10-19\face_10_entry_082127_499626.jpg
+2026-10-19 08:21:28,079 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:28,199 | EMBEDDING_FAILED | track=8 | will retry
+2026-10-19 08:21:28,200 | FACE_DETECTED | track=12 | frame=12
+2026-10-19 08:21:28,300 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-19 08:21:28,665 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:29,261 | EMBEDDING_GENERATED | track=8 | size=512
+2026-10-19 08:21:29,283 | FACE_RECOGNIZED | face_id=11 | score=1.00
+2026-10-19 08:21:29,331 | ENTRY | face_id=11 | track=8 | image=logs\entrys\2026-10-19\face_11_entry_082129_308617.jpg
+2026-10-19 08:21:29,704 | EMBEDDING_FAILED | track=12 | will retry
+2026-10-19 08:21:29,727 | FACE_DETECTED | track=14 | frame=15
+2026-10-19 08:21:30,261 | EMBEDDING_GENERATED | track=14 | size=512
+2026-10-19 08:21:30,275 | FACE_RECOGNIZED | face_id=9 | score=0.71
+2026-10-19 08:21:30,278 | TRACK_RELINKED | face_id=9 | old_track=7 | new_track=14
+2026-10-19 08:21:30,931 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:31,661 | EMBEDDING_GENERATED | track=12 | size=512
+2026-10-19 08:21:31,662 | FACE_RECOGNIZED | face_id=12 | score=1.00
+2026-10-19 08:21:31,685 | ENTRY | face_id=12 | track=12 | image=logs\entrys\2026-10-19\face_12_entry_082131_663025.jpg
+2026-10-19 08:21:32,253 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:32,769 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:33,115 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:33,117 | FACE_DETECTED | track=27 | frame=27
+2026-10-19 08:21:33,725 | EMBEDDING_GENERATED | track=27 | size=512
+2026-10-19 08:21:33,727 | FACE_RECOGNIZED | face_id=6 | score=0.60
+2026-10-19 08:21:33,727 | TRACK_RELINKED | face_id=6 | old_track=2 | new_track=27
+2026-10-19 08:21:34,299 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:34,547 | TRACKING | face_id=5 | track=1 | frame=33
+2026-10-19 08:21:34,645 | EMBEDDING_FAILED | track=4 | will retry
+2026-10-19 08:21:34,645 | TRACKING | face_id=7 | track=5 | frame=33
+2026-10-19 08:21:34,647 | FACE_DETECTED | track=34 | frame=33
+2026-10-19 08:21:34,739 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:35,096 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:35,429 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:35,430 | FACE_DETECTED | track=43 | frame=39
+2026-10-19 08:21:36,125 | EMBEDDING_GENERATED | track=43 | size=512
+2026-10-19 08:21:36,127 | FACE_RECOGNIZED | face_id=8 | score=0.72
+2026-10-19 08:21:36,128 | TRACK_RELINKED | face_id=8 | old_track=6 | new_track=43
+2026-10-19 08:21:36,683 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:37,038 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:37,039 | FACE_DETECTED | track=51 | frame=45
+2026-10-19 08:21:37,135 | EMBEDDING_FAILED | track=51 | will retry
+2026-10-19 08:21:37,135 | FACE_DETECTED | track=52 | frame=45
+2026-10-19 08:21:37,232 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:21:37,233 | FACE_DETECTED | track=53 | frame=45
+2026-10-19 08:21:37,328 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:37,674 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:38,294 | EMBEDDING_GENERATED | track=51 | size=512
+2026-10-19 08:21:38,298 | FACE_RECOGNIZED | face_id=13 | score=1.00
+2026-10-19 08:21:38,358 | ENTRY | face_id=13 | track=51 | image=logs\entrys\2026-10-19\face_13_entry_082138_329948.jpg
+2026-10-19 08:21:38,631 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:21:38,948 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:38,948 | FACE_DETECTED | track=54 | frame=48
+2026-10-19 08:21:39,080 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-19 08:21:39,480 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:39,587 | EMBEDDING_FAILED | track=52 | will retry
+2026-10-19 08:21:39,692 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:39,801 | EMBEDDING_FAILED | track=54 | will retry
+2026-10-19 08:21:40,162 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:40,801 | EMBEDDING_GENERATED | track=52 | size=512
+2026-10-19 08:21:40,811 | FACE_RECOGNIZED | face_id=11 | score=0.82
+2026-10-19 08:21:40,814 | TRACK_RELINKED | face_id=11 | old_track=8 | new_track=52
+2026-10-19 08:21:41,314 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:41,788 | EMBEDDING_GENERATED | track=54 | size=512
+2026-10-19 08:21:41,799 | FACE_RECOGNIZED | face_id=9 | score=0.66
+2026-10-19 08:21:41,834 | TRACK_RELINKED | face_id=9 | old_track=14 | new_track=54
+2026-10-19 08:21:42,592 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:42,705 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:43,069 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:43,069 | TRACKING | face_id=8 | track=43 | frame=60
+2026-10-19 08:21:43,165 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:43,169 | TRACKING | face_id=6 | track=27 | frame=60
+2026-10-19 08:21:43,169 | FACE_DETECTED | track=58 | frame=60
+2026-10-19 08:21:43,284 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:21:43,285 | FACE_DETECTED | track=59 | frame=60
+2026-10-19 08:21:43,402 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:21:43,403 | FACE_DETECTED | track=61 | frame=60
+2026-10-19 08:21:43,500 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:21:43,765 | TRACKING | face_id=5 | track=1 | frame=63
+2026-10-19 08:21:43,765 | TRACKING | face_id=7 | track=5 | frame=63
+2026-10-19 08:21:43,860 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:43,968 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:44,066 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:21:44,167 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:21:44,265 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:21:44,607 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:44,701 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:44,802 | EMBEDDING_FAILED | track=58 | will retry
+2026-10-19 08:21:44,900 | EMBEDDING_FAILED | track=59 | will retry
+2026-10-19 08:21:45,001 | EMBEDDING_FAILED | track=61 | will retry
+2026-10-19 08:21:45,008 | EXIT | face_id=12 | track=12 | image=logs\exits\2026-10-19\face_12_exit_082145_001700.jpg
+2026-10-19 08:21:45,381 | EMBEDDING_FAILED | track=34 | will retry
+2026-10-19 08:21:45,474 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:45,874 | EMBEDDING_GENERATED | track=58 | size=512
+2026-10-19 08:21:45,882 | FACE_RECOGNIZED | face_id=14 | score=1.00
+2026-10-19 08:21:45,925 | ENTRY | face_id=14 | track=58 | image=logs\entrys\2026-10-19\face_14_entry_082145_904265.jpg
+2026-10-19 08:21:46,664 | EMBEDDING_GENERATED | track=59 | size=512
+2026-10-19 08:21:46,665 | FACE_RECOGNIZED | face_id=15 | score=1.00
+2026-10-19 08:21:46,673 | ENTRY | face_id=15 | track=59 | image=logs\entrys\2026-10-19\face_15_entry_082146_665762.jpg
+2026-10-19 08:21:47,379 | EMBEDDING_GENERATED | track=61 | size=512
+2026-10-19 08:21:47,401 | FACE_RECOGNIZED | face_id=16 | score=1.00
+2026-10-19 08:21:47,448 | ENTRY | face_id=16 | track=61 | image=logs\entrys\2026-10-19\face_16_entry_082147_414331.jpg
+2026-10-19 08:21:47,454 | EXIT | face_id=10 | track=10 | image=logs\exits\2026-10-19\face_10_exit_082147_448399.jpg
+2026-10-19 08:21:48,057 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:48,058 | TRACKING | face_id=9 | track=54 | frame=72
+2026-10-19 08:21:48,060 | FACE_DETECTED | track=67 | frame=72
+2026-10-19 08:21:48,177 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:48,178 | FACE_DETECTED | track=69 | frame=72
+2026-10-19 08:21:48,934 | EMBEDDING_GENERATED | track=69 | size=512
+2026-10-19 08:21:48,960 | FACE_RECOGNIZED | face_id=10 | score=0.76
+2026-10-19 08:21:48,978 | ENTRY | face_id=10 | track=69 | image=logs\entrys\2026-10-19\face_10_entry_082148_970119.jpg
+2026-10-19 08:21:49,550 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:49,655 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:49,931 | TRACKING | face_id=13 | track=51 | frame=78
+2026-10-19 08:21:49,932 | TRACKING | face_id=11 | track=52 | frame=78
+2026-10-19 08:21:50,026 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:50,123 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:50,486 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:50,587 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:50,916 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:51,012 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:51,458 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:51,569 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:51,570 | FACE_DETECTED | track=76 | frame=87
+2026-10-19 08:21:52,231 | EMBEDDING_GENERATED | track=76 | size=512
+2026-10-19 08:21:52,232 | FACE_RECOGNIZED | face_id=6 | score=0.62
+2026-10-19 08:21:52,233 | TRACK_RELINKED | face_id=6 | old_track=27 | new_track=76
+2026-10-19 08:21:52,550 | TRACKING | face_id=8 | track=43 | frame=90
+2026-10-19 08:21:52,779 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:52,877 | EMBEDDING_FAILED | track=67 | will retry
+2026-10-19 08:21:53,126 | TRACKING | face_id=5 | track=1 | frame=93
+2026-10-19 08:21:53,127 | TRACKING | face_id=7 | track=5 | frame=93
+2026-10-19 08:21:53,223 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:53,226 | FACE_DETECTED | track=80 | frame=93
+2026-10-19 08:21:53,321 | EMBEDDING_FAILED | track=80 | will retry
+2026-10-19 08:21:53,677 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:54,034 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:54,035 | TRACKING | face_id=14 | track=58 | frame=99
+2026-10-19 08:21:54,036 | TRACKING | face_id=15 | track=59 | frame=99
+2026-10-19 08:21:54,036 | TRACKING | face_id=16 | track=61 | frame=99
+2026-10-19 08:21:54,484 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:54,485 | TRACKING | face_id=9 | track=54 | frame=102
+2026-10-19 08:21:54,487 | FACE_DETECTED | track=87 | frame=102
+2026-10-19 08:21:54,600 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-19 08:21:54,958 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:54,960 | TRACKING | face_id=6 | track=76 | frame=105
+2026-10-19 08:21:55,052 | EMBEDDING_FAILED | track=87 | will retry
+2026-10-19 08:21:55,314 | TRACKING | face_id=13 | track=51 | frame=108
+2026-10-19 08:21:55,411 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:55,414 | FACE_DETECTED | track=93 | frame=108
+2026-10-19 08:21:56,049 | EMBEDDING_GENERATED | track=93 | size=512
+2026-10-19 08:21:56,050 | FACE_RECOGNIZED | face_id=10 | score=0.73
+2026-10-19 08:21:56,051 | TRACK_RELINKED | face_id=10 | old_track=69 | new_track=93
+2026-10-19 08:21:56,627 | EMBEDDING_FAILED | track=53 | will retry
+2026-10-19 08:21:57,131 | FACE_DETECTED | track=107 | frame=117
+2026-10-19 08:21:57,262 | EMBEDDING_FAILED | track=107 | will retry
+2026-10-19 08:21:57,775 | TRACKING | face_id=7 | track=5 | frame=123
+2026-10-19 08:21:58,256 | TRACKING | face_id=14 | track=58 | frame=129
+2026-10-19 08:21:58,257 | TRACKING | face_id=15 | track=59 | frame=129
+2026-10-19 08:21:58,258 | TRACKING | face_id=16 | track=61 | frame=129
+2026-10-19 08:21:58,490 | TRACKING | face_id=9 | track=54 | frame=132
+2026-10-19 08:21:58,492 | FACE_DETECTED | track=134 | frame=132
+2026-10-19 08:21:58,971 | EMBEDDING_GENERATED | track=134 | size=512
+2026-10-19 08:21:58,981 | FACE_RECOGNIZED | face_id=17 | score=1.00
+2026-10-19 08:21:59,052 | ENTRY | face_id=17 | track=134 | image=logs\entrys\2026-10-19\face_17_entry_082159_009962.jpg
+2026-10-19 08:21:59,053 | FACE_DETECTED | track=135 | frame=132
+2026-10-19 08:21:59,758 | EMBEDDING_GENERATED | track=135 | size=512
+2026-10-19 08:21:59,772 | FACE_RECOGNIZED | face_id=18 | score=1.00
+2026-10-19 08:21:59,813 | ENTRY | face_id=18 | track=135 | image=logs\entrys\2026-10-19\face_18_entry_082159_791436.jpg
+2026-10-19 08:21:59,821 | EXIT | face_id=11 | track=52 | image=logs\exits\2026-10-19\face_11_exit_082159_814105.jpg
+2026-10-19 08:22:00,084 | EXIT | face_id=5 | track=1 | image=logs\exits\2026-10-19\face_5_exit_082200_078067.jpg
+2026-10-19 08:22:00,338 | TRACKING | face_id=13 | track=51 | frame=138
+2026-10-19 08:22:00,340 | TRACKING | face_id=10 | track=93 | frame=138
+2026-10-19 08:22:00,341 | TRACKING | face_id=6 | track=76 | frame=138
+2026-10-19 08:22:01,333 | FACE_DETECTED | track=157 | frame=150
+2026-10-19 08:22:01,950 | EMBEDDING_GENERATED | track=157 | size=512
+2026-10-19 08:22:01,951 | FACE_RECOGNIZED | face_id=19 | score=1.00
+2026-10-19 08:22:01,997 | ENTRY | face_id=19 | track=157 | image=logs\entrys\2026-10-19\face_19_entry_082201_961883.jpg
+2026-10-19 08:22:02,308 | TRACKING | face_id=7 | track=5 | frame=153
+2026-10-19 08:22:02,311 | FACE_DETECTED | track=161 | frame=153
+2026-10-19 08:22:02,566 | EMBEDDING_FAILED | track=161 | will retry
+2026-10-19 08:22:02,575 | EXIT | face_id=8 | track=43 | image=logs\exits\2026-10-19\face_8_exit_082202_566641.jpg
+2026-10-19 08:22:03,395 | EMBEDDING_GENERATED | track=161 | size=512
+2026-10-19 08:22:03,406 | FACE_RECOGNIZED | face_id=20 | score=1.00
+2026-10-19 08:22:03,456 | ENTRY | face_id=20 | track=161 | image=logs\entrys\2026-10-19\face_20_entry_082203_432314.jpg
+2026-10-19 08:22:03,456 | FACE_DETECTED | track=171 | frame=156
+2026-10-19 08:22:04,312 | EMBEDDING_GENERATED | track=171 | size=512
+2026-10-19 08:22:04,334 | FACE_RECOGNIZED | face_id=19 | score=0.89
+2026-10-19 08:22:04,349 | TRACK_RELINKED | face_id=19 | old_track=157 | new_track=171
+2026-10-19 08:22:04,674 | TRACKING | face_id=14 | track=58 | frame=159
+2026-10-19 08:22:04,675 | TRACKING | face_id=15 | track=59 | frame=159
+2026-10-19 08:22:04,675 | TRACKING | face_id=16 | track=61 | frame=159
+2026-10-19 08:22:04,918 | TRACKING | face_id=9 | track=54 | frame=162
+2026-10-19 08:22:04,920 | TRACKING | face_id=17 | track=134 | frame=162
+2026-10-19 08:22:04,921 | TRACKING | face_id=18 | track=135 | frame=162
+2026-10-19 08:22:04,922 | FACE_DETECTED | track=186 | frame=162
+2026-10-19 08:22:05,137 | EMBEDDING_FAILED | track=186 | will retry
+2026-10-19 08:22:06,081 | EMBEDDING_GENERATED | track=186 | size=512
+2026-10-19 08:22:06,082 | FACE_RECOGNIZED | face_id=21 | score=1.00
+2026-10-19 08:22:06,103 | ENTRY | face_id=21 | track=186 | image=logs\entrys\2026-10-19\face_21_entry_082206_082558.jpg
+2026-10-19 08:22:06,103 | FACE_DETECTED | track=188 | frame=165
+2026-10-19 08:22:06,421 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:22:06,429 | FACE_DETECTED | track=190 | frame=165
+2026-10-19 08:22:07,026 | EMBEDDING_GENERATED | track=190 | size=512
+2026-10-19 08:22:07,034 | FACE_RECOGNIZED | face_id=12 | score=0.55
+2026-10-19 08:22:07,086 | ENTRY | face_id=12 | track=190 | image=logs\entrys\2026-10-19\face_12_entry_082207_063371.jpg
+2026-10-19 08:22:07,616 | TRACKING | face_id=13 | track=51 | frame=168
+2026-10-19 08:22:07,619 | TRACKING | face_id=10 | track=93 | frame=168
+2026-10-19 08:22:07,738 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:22:08,103 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:22:08,574 | EMBEDDING_FAILED | track=188 | will retry
+2026-10-19 08:22:08,576 | FACE_DETECTED | track=204 | frame=174
+2026-10-19 08:22:08,676 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:22:08,677 | FACE_DETECTED | track=207 | frame=174
+2026-10-19 08:22:09,109 | EMBEDDING_GENERATED | track=207 | size=512
+2026-10-19 08:22:09,142 | FACE_RECOGNIZED | face_id=6 | score=0.69
+2026-10-19 08:22:09,183 | TRACK_RELINKED | face_id=6 | old_track=76 | new_track=207
+2026-10-19 08:22:09,738 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:22:10,147 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:22:10,505 | EMBEDDING_FAILED | track=204 | will retry
+2026-10-19 08:22:11,400 | EMBEDDING_GENERATED | track=204 | size=512
+2026-10-19 08:22:11,409 | FACE_RECOGNIZED | face_id=20 | score=0.80
+2026-10-19 08:22:11,439 | TRACK_RELINKED | face_id=20 | old_track=161 | new_track=204
+2026-10-19 08:22:11,708 | TRACKING | face_id=14 | track=58 | frame=189
+2026-10-19 08:22:11,709 | TRACKING | face_id=15 | track=59 | frame=189
+2026-10-19 08:22:11,710 | TRACKING | face_id=16 | track=61 | frame=189
+2026-10-19 08:22:11,720 | EXIT | face_id=7 | track=5 | image=logs\exits\2026-10-19\face_7_exit_082211_712412.jpg
+2026-10-19 08:22:11,961 | TRACKING | face_id=17 | track=134 | frame=192
+2026-10-19 08:22:11,962 | TRACKING | face_id=18 | track=135 | frame=192
+2026-10-19 08:22:11,964 | FACE_DETECTED | track=230 | frame=192
+2026-10-19 08:22:12,172 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:22:12,461 | TRACKING | face_id=21 | track=186 | frame=195
+2026-10-19 08:22:12,469 | EXIT | face_id=9 | track=54 | image=logs\exits\2026-10-19\face_9_exit_082212_462184.jpg
+2026-10-19 08:22:12,704 | TRACKING | face_id=13 | track=51 | frame=198
+2026-10-19 08:22:12,707 | TRACKING | face_id=10 | track=93 | frame=198
+2026-10-19 08:22:12,708 | TRACKING | face_id=6 | track=207 | frame=198
+2026-10-19 08:22:12,891 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:22:12,901 | EXIT | face_id=19 | track=171 | image=logs\exits\2026-10-19\face_19_exit_082212_891434.jpg
+2026-10-19 08:22:13,251 | EMBEDDING_FAILED | track=230 | will retry
+2026-10-19 08:22:13,830 | FACE_DETECTED | track=253 | frame=207
+2026-10-19 08:22:14,010 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-19 08:22:14,037 | FACE_DETECTED | track=256 | frame=207
+2026-10-19 08:22:14,442 | EMBEDDING_GENERATED | track=256 | size=512
+2026-10-19 08:22:14,840 | FACE_RECOGNIZED | face_id=19 | score=0.84
+2026-10-19 08:22:14,870 | ENTRY | face_id=19 | track=256 | image=logs\entrys\2026-10-19\face_19_entry_082214_860877.jpg
+2026-10-19 08:22:15,298 | EMBEDDING_FAILED | track=253 | will retry
+2026-10-19 08:22:15,395 | FACE_DETECTED | track=258 | frame=210
+2026-10-19 08:22:15,532 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:15,793 | TRACKING | face_id=20 | track=204 | frame=213
+2026-10-19 08:22:15,888 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:16,238 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:16,486 | TRACKING | face_id=14 | track=58 | frame=219
+2026-10-19 08:22:16,486 | TRACKING | face_id=15 | track=59 | frame=219
+2026-10-19 08:22:16,487 | TRACKING | face_id=16 | track=61 | frame=219
+2026-10-19 08:22:16,584 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:16,915 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:16,936 | EXIT | face_id=12 | track=190 | image=logs\exits\2026-10-19\face_12_exit_082216_916769.jpg
+2026-10-19 08:22:17,170 | TRACKING | face_id=21 | track=186 | frame=225
+2026-10-19 08:22:17,262 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:17,263 | FACE_DETECTED | track=269 | frame=225
+2026-10-19 08:22:17,366 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:17,648 | TRACKING | face_id=13 | track=51 | frame=228
+2026-10-19 08:22:17,700 | TRACKING | face_id=10 | track=93 | frame=228
+2026-10-19 08:22:17,702 | TRACKING | face_id=6 | track=207 | frame=228
+2026-10-19 08:22:17,799 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:17,922 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:17,923 | FACE_DETECTED | track=274 | frame=228
+2026-10-19 08:22:18,018 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:22:18,338 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:18,429 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:18,525 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:22:18,844 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:18,939 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:19,051 | EMBEDDING_FAILED | track=274 | will retry
+2026-10-19 08:22:19,390 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:19,486 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:20,132 | EMBEDDING_GENERATED | track=274 | size=512
+2026-10-19 08:22:20,133 | FACE_RECOGNIZED | face_id=22 | score=1.00
+2026-10-19 08:22:20,144 | ENTRY | face_id=22 | track=274 | image=logs\entrys\2026-10-19\face_22_entry_082220_133704.jpg
+2026-10-19 08:22:20,145 | FACE_DETECTED | track=288 | frame=237
+2026-10-19 08:22:20,429 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-19 08:22:21,151 | EMBEDDING_FAILED | track=258 | will retry
+2026-10-19 08:22:21,245 | EMBEDDING_FAILED | track=269 | will retry
+2026-10-19 08:22:21,352 | EMBEDDING_FAILED | track=288 | will retry
+2026-10-19 08:22:21,379 | EXIT | face_id=13 | track=51 | image=logs\exits\2026-10-19\face_13_exit_082221_370511.jpg
+2026-10-19 08:22:21,387 | EXIT | face_id=14 | track=58 | image=logs\exits\2026-10-19\face_14_exit_082221_379901.jpg
+2026-10-19 08:22:21,396 | EXIT | face_id=15 | track=59 | image=logs\exits\2026-10-19\face_15_exit_082221_388065.jpg
+2026-10-19 08:22:21,404 | EXIT | face_id=16 | track=61 | image=logs\exits\2026-10-19\face_16_exit_082221_396936.jpg
+2026-10-19 08:22:21,413 | EXIT | face_id=10 | track=93 | image=logs\exits\2026-10-19\face_10_exit_082221_405041.jpg
+2026-10-19 08:22:21,422 | EXIT | face_id=17 | track=134 | image=logs\exits\2026-10-19\face_17_exit_082221_413753.jpg
+2026-10-19 08:22:21,430 | EXIT | face_id=18 | track=135 | image=logs\exits\2026-10-19\face_18_exit_082221_422536.jpg
+2026-10-19 08:22:21,437 | EXIT | face_id=21 | track=186 | image=logs\exits\2026-10-19\face_21_exit_082221_430383.jpg
+2026-10-19 08:22:21,445 | EXIT | face_id=6 | track=207 | image=logs\exits\2026-10-19\face_6_exit_082221_438020.jpg
+2026-10-19 08:22:21,453 | EXIT | face_id=20 | track=204 | image=logs\exits\2026-10-19\face_20_exit_082221_446049.jpg
+2026-10-19 08:22:21,460 | EXIT | face_id=19 | track=256 | image=logs\exits\2026-10-19\face_19_exit_082221_453917.jpg
+2026-10-19 08:22:21,468 | EXIT | face_id=22 | track=274 | image=logs\exits\2026-10-19\face_22_exit_082221_460954.jpg
+2026-10-19 08:22:21,469 | SYSTEM_STOP | unique_visitors=22
